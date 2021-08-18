@@ -43,8 +43,7 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  
 ### Equipo
 
-* Estudiante 1
-* Estudiante 2
-* Estudiante 3
-* Estudiante 4
+* Blanche Daniela
+* Torres Carolina
+* Santos Núñez Itzel Elizabeth
 
