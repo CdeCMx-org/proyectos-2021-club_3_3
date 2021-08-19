@@ -8,8 +8,8 @@ El URL generado de tu página lo puedes encontrar en Settings -> Pages.
 
 ### Introducción
 
-Describe de qué trata tu proyecto:
-* ¿qué problema vas a abordar?
+Describe de qué trata tu proyecto: 
+* ¿qué problema vas a abordar? Resolver la problemática de propagación de Cepas resistentes ante microbianos, como efecto secundario del excesivo uso de desifectantes, antibióticos e higine excesiva. 
 * ¿porqué es importante?
 * ¿cómo se relaciona con la **ODS** asignada a tu club? 
 * ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
