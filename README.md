@@ -6,6 +6,9 @@ El URL generado de tu página lo puedes encontrar en Settings -> Pages.
 
 *Puedes ver los cambios reflejados en la página, solo toma en cuenta que puede tomar unos minutos en cambiar.*
 
+### Abstract 
+La resistencia bacteriana es un claro ejemplo de la evolución de la vida, donde podemos observar conceptos como “La supervivencia del más fuerte” sin embargo, a pesar de este maravilloso proceso de adaptación hay una especie que se ve afectada a esos cambios: Nosotros, los humanos. Es por esto que se busca crear alternativas para disminuir este proceso evolutivo que si bien no se puede frenar por completo, tratar de disminuir su velocidad o su impacto.
+
 ### Introducción
 
 Describe de qué trata tu proyecto: 
