@@ -20,9 +20,10 @@ Es por esto, que hemos desarrollado un protocolo para el acceso a los antibióti
 
 Describe de qué trata tu proyecto: 
 * ¿qué problema vas a abordar? Resolver la problemática de propagación de Cepas resistentes ante microbianos, como efecto secundario del excesivo uso de desifectantes, antibióticos e higine excesiva. 
-* ¿porqué es importante?
-* ¿cómo se relaciona con la **ODS** asignada a tu club? 
-* ¿cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste?
+* ¿porqué es importante? Según datos de la OMS la cantidad de patógenos resistentes a antibióticos ha estado aumentando en los últimos años, esto “hace que se incrementen los costos médicos, que se prolonguen las estancias hospitalarias y que aumente la mortalidad”.
+* ¿Cómo se relaciona con la ODS asignada a tu club? En el club el tema es la resistencia los antibióticos, viéndolo como un enemigo oculto. 
+* ¿Cómo se relaciona lo aprendido en tu club para resolver el problema que planteaste? En el curso abordamos temas sobre el mecanismo de acción de los antibióticos, el crecimiento bacteriano y los distintos medios de cultivo donde pueden proliferar estos microorganismos.
+
 
 ### Métodología
 Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
