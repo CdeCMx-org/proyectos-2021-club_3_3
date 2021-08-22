@@ -25,6 +25,16 @@ Describe de qué trata tu proyecto:
 
 Describe los pasos específicos que tomaste para realizar tu proyecto. Trata de hacer una descripción concreta y detallada. Si aplica, puedes incluir un diagrama describiendo el procedimiento. 
 
+ 1. Protocolo médico para adquisición de antibióticos.
+ El protocolo que se propone es: Para la adquisición de antibióticos de cualquier tipo sea necesario además de una receta médica estudios donde previamente se haya realizado un cultivo bacteriano para verificar la presencia de dicho patógeno. Si bien, en nuestro país según la NOM-059-SSA1-2015 “para la venta y dispensación de estos insumos requieren la receta expedida de un médico” 3 no ha ayudado a disminuir la resistencia bacteriana puesto que solo para el diagnóstico se basan en síntomas los cuales pueden ser similares en infecciones por virus y bacterias. 
+ Con el desarrollo de este protocolo, se busca que disminuya la adquisición de antibióticos.
+
+ 2. Información de antibióticos para crear conciencia sobre la problemática de la resistencia bacteriana es importante hacer uso de las plataformas digitales y redes sociales para difundir este problema. Además de boletines informativos en hospitales y farmacias. 
+
+ 3. Uso de pruebas víricas rápidas para infecciones nasofaríngeas. 
+ Similar a una prueba de embarazo, se trata de un inmunoensayo por aglutinación donde se podrá determinar la presencia de virus y así poder recetar de manera efectiva antivirales y no antibióticos. 
+ Se toma una muestra de la cavidad nasal con un hisopo estéril y se hará reaccionar con un anticuerpo el cual nos indicará la presencia del patógeno. 
+
 ### Resultados
 
 Este es el momento en que nos compartas los resultados obtenidos en tu proyecto. Asegurate de incluir material visual (gráficas, fotos, diagramas, tablas). 
